@@ -66,7 +66,7 @@
             currTemp.BackColor = SystemColors.Window;
             currTemp.FlatStyle = FlatStyle.Flat;
             currTemp.Font = new Font("Segoe UI", 25F);
-            currTemp.Location = new Point(613, 242);
+            currTemp.Location = new Point(605, 241);
             currTemp.Name = "currTemp";
             currTemp.Size = new Size(157, 67);
             currTemp.TabIndex = 2;
@@ -76,12 +76,12 @@
             // 
             cheesyFlavorText.AutoSize = true;
             cheesyFlavorText.Font = new Font("Segoe UI", 15F);
-            cheesyFlavorText.Location = new Point(3, 0);
+            cheesyFlavorText.Location = new Point(150, 0);
             cheesyFlavorText.Name = "cheesyFlavorText";
             cheesyFlavorText.RightToLeft = RightToLeft.No;
-            cheesyFlavorText.Size = new Size(335, 41);
+            cheesyFlavorText.Size = new Size(188, 41);
             cheesyFlavorText.TabIndex = 3;
-            cheesyFlavorText.Text = "Damn thats REALLY hot!";
+            cheesyFlavorText.Text = "Now that's toasty!";
             cheesyFlavorText.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // flowLayoutPanel1
